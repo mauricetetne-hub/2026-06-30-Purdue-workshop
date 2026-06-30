@@ -7,6 +7,7 @@ exercises: 2 # exercise time in minutes
 :::::::::::::::::::::::::::::::::::::: questions 
 
 - How do you write a lesson using Markdown and `{sandpaper}`?
+- Hectic day
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
